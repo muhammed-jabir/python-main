@@ -10,7 +10,7 @@
 
 # It should store both student and teacher details.
 
-# Write a method to display all details of the teaching assistant.
+# Write a method to display all details of the teaching assistan
 
 
 
